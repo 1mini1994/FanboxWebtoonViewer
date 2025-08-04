@@ -1,5 +1,5 @@
 {
-  "name": "Patreon Webtoon Viewer",
+  "name": "Fanbox Webtoon Viewer",
   "description": "Viewer for webtoon style contents in patreon",
   "version": "0.1",
   "permissions": ["activeTab", "scripting"],
